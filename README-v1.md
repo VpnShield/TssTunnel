@@ -1,9 +1,9 @@
 {
-"Title": "Vpn Shield | Free ⚡️",
-"Description": "سلام عزیز دلم 🌹\n\n- این برنامه توسط کانال Vpn Shield مود شده ؛ برای دریافت آپدیت و فیلترشکن‌های متصل بیشتر حتما عضو کانال تلگرام ما شوید 🤍",
+"Title": "☆  بروزرسانی جدید  ☆",
+"Description": "سلام دوست عزیزم 🌺\n\n- این نسخه از کار افتاده ، برای استفاده از Tunnel پرسرعت نسخه جدید مود و منتشر شده رو از کانال تلگرام ما دریافت کنید 🤍",
 "Link": "tg://resolve?domain=Vpn_Shield",
-"ColorWave": "#FFEB3B",
-"Color": "#FFEB3B",
+"ColorWave": "#FFFF00",
+"Color": "#FFFF00",
 "ColorWaveTwo": "#FFD600",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
@@ -14,11 +14,11 @@
 "ColorBtnBg": "#00a043",
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
-"Cancellable": "true",
+"Cancellable": "false",
 "MessageID": "1",
 "ShowTime": "999",
-"Button": "  عضویت در کانال  ",
-"ButtonCancell": "  عضو هستم  ",
-"Closure": "true",
+"Button": "  دریافت نسخه جدید  ",
+"ButtonCancell": " بعدا ",
+"Closure": "false",
 "Show": "on"
 }
